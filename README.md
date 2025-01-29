@@ -26,13 +26,13 @@
      others).
 2. ### Capturing:
 
-+ A piece is captured when it's flanked on opposite sides (horizontally or vertically) by two enemy pieces.
-+ The king must be surrounded on all 4 sides to be captured.
+   + A piece is captured when it's flanked on opposite sides (horizontally or vertically) by two enemy pieces.
+   + The king must be surrounded on all 4 sides to be captured.
   
 3. ### Throne (Center Square):
 
-+ Only the king can occupy the throne.
-+ Enemy pieces cannot pass through or land on the throne.
+   + Only the king can occupy the throne.
+   + Enemy pieces cannot pass through or land on the throne.
 4. ### Corners:
 
-+ Only the king can escape to a corner square.
+   + Only the king can escape to a corner square.
