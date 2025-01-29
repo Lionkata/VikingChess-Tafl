@@ -12,7 +12,7 @@
 
 **The board is typically square (7x7, 9x9, 11x11, 3x13).**
 
-**The <king> starts in the center (throne).**
+**The king starts in the center (throne).**
 
 **Defenders surround the king.**
 
