@@ -21,8 +21,9 @@
 ## Gameplay
 1. ### Turns:
 
-+ Players alternate moves (attackers vs. defenders).
-+ Any piece moves like a rook in chess (straight lines, any distance, no jumping over others).
+   + Players alternate moves (attackers vs. defenders).
+   + Any piece moves like a rook in chess (straight lines, any distance, no jumping over 
+     others).
 2. ### Capturing:
 
 + A piece is captured when it's flanked on opposite sides (horizontally or vertically) by two enemy pieces.
