@@ -27,7 +27,7 @@
 
 + A piece is captured when it's flanked on opposite sides (horizontally or vertically) by two enemy pieces.
 + The king must be surrounded on all 4 sides to be captured.
-+ 
+  
 3. ### Throne (Center Square):
 
 + Only the king can occupy the throne.
