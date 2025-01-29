@@ -8,3 +8,13 @@
 
 **`Attackers'` goal: Capture the king before he escapes.**
 
+## Setup
+
+<**The board is typically square (7x7, 9x9, 11x11, 3x13).**>
+
+**The king starts in the center (throne).**
+
+**Defenders (fewer in number) surround the king.**
+
+**Attackers (more in number) are arranged around the edges of the board.**
+
