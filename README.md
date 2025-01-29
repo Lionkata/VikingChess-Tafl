@@ -34,5 +34,5 @@
    + Only the king can occupy the throne.
    + Enemy pieces cannot pass through or land on the throne.
 4. ### Corners:
-
-   + Only the king can escape to a corner square.
+> [!IMPORTANT]
+>  + Only the king can escape to a corner square.
