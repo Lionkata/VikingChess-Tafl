@@ -10,11 +10,11 @@
 
 ## Setup
 
-<**The board is typically square (7x7, 9x9, 11x11, 3x13).**>
+**The board is typically square (7x7, 9x9, 11x11, 3x13).**
 
-**The king starts in the center (throne).**
+`**The king starts in the center (throne).**`
 
-**Defenders (fewer in number) surround the king.**
+**Defenders surround the king.**
 
-**Attackers (more in number) are arranged around the edges of the board.**
+**Attackers are arranged around the edges of the board.**
 
