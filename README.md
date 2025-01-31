@@ -34,5 +34,11 @@
    + Only the king can occupy the throne.
    + Enemy pieces cannot pass through or land on the throne.
 
-> [!IMPORTANT]
+> [!NOTE]
 >  + Only the king can escape to a corner square.
+
+##Victory
+> [!IMPORTANT]
+> + _Defenders win if the king reaches any corner square._
+> + _Attackers win if they capture the king before he escapes._
+
